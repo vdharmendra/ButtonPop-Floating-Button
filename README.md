@@ -13,13 +13,19 @@ ButtonPop is a dynamic, interactive floating button designed to enhance user exp
 # Preview
 <span>ButtonPop | Floating Button</span>
 <br />
-<a href="" target="_blank">
-<img style="width:350px;" src="./" alt="" /></a>
+<a href="https://www.behance.net/gallery/216317069/ButtonPop-Floating-Button" target="_blank">
+<img style="width:350px;" src="./ButtonPop.gif" alt="" /></a>
 <br />
-<span>DESIGN</span>
+<span>REST STATE</span>
 <br />
-<a href="" target="_blank">
-<img style="width:350px;" src="./" alt="" /></a>
+<a href="https://www.behance.net/gallery/216317069/ButtonPop-Floating-Button" target="_blank">
+<img style="width:350px;" src="./ButtonPop.png" alt="" /></a>
+<br />
+<br />
+<span>HOVER STATE</span>
+<br />
+<a href="https://www.behance.net/gallery/216317069/ButtonPop-Floating-Button" target="_blank">
+<img style="width:350px;" src="./ButtonPopHover.png" alt="" /></a>
 <br />
 
 ## Features
